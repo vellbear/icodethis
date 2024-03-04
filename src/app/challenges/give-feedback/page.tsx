@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="bg-gray-200 grid place-content-center p-4 min-h-screen">
       <form
-        className="relative bg-white grid gap-4 p-20 max-w-[540px] after:absolute after:h-full after:w-full after:top-1 after:left-1 after:border-r-8 after:border-black after:border-b-8 after:ml-1 after:mt-1"
+        className="relative bg-white grid gap-4 p-20 max-w-[540px] after:absolute after:pointer-events-none after:h-full after:w-full after:top-1 after:left-1 after:border-r-8 after:border-black after:border-b-8 after:ml-1 after:mt-1"
         action=""
       >
         <h1 className="font-bold font-serif text-3xl">Give feedback</h1>
