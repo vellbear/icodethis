@@ -1,5 +1,5 @@
 import Agreement from "./components/Agreement";
-import { PRIVACY_POLICY, RESEARCH_GROUP } from "./consts.js";
+import { PRIVACY_POLICY, RESEARCH_GROUP } from "./consts";
 
 export default function Home() {
   return (
