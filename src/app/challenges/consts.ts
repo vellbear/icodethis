@@ -11,4 +11,8 @@ export const CHALLENGE_LINKS = [
     title: "Hiring Profile",
     href: "hiring-profile",
   },
+  {
+    title: "Job Post",
+    href: "job-post",
+  },
 ];
